@@ -1,0 +1,5 @@
+package it.inventaryManager;
+
+public class InventaryServlet {
+
+}
